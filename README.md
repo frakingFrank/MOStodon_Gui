@@ -1,5 +1,5 @@
-A german GUI to use Mastodon with C64 Ultimate.
-It tooks the code https://github.com/Havoc6502/MOStodon 
+A german GUI to use Mastodon with C64 Ultimate. The GUI runs on Linux and helps to connect to the C64 Ultimate. 
+But the most work to use Mastodon is from https://github.com/Havoc6502/MOStodon 
 
 The zip-File contains all you need.
 
