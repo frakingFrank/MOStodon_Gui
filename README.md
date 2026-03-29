@@ -6,6 +6,7 @@ The zip-File contains all you need.
 Just for Linux
 
 
+Diese Anleitng ist auch AI-generiert
 
 # MOStodon GUI – Anleitung
 
